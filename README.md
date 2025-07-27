@@ -113,7 +113,6 @@
  <a href="https://www.kaggle.com/os14you" target="_blank">
     <code><img height="60" width="60" src="https://img.icons8.com/?size=160&id=QrYhwpUzAcoy&format=png"/></code>
   </a>
-
 </p>
 
 
