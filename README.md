@@ -74,7 +74,7 @@
 
 <h2 align="center">🐍 Contribution Grid Snake </h2>
 
-![snake gif](https://github.com/os14you/os14you/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/Os14you/Os14you/blob/output/github-contribution-grid-snake-dark.svg)
 
 <br/>
 
