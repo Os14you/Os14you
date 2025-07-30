@@ -16,7 +16,7 @@
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Machine Learning 𝚊𝚗𝚍 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.**
 - 👨‍💻 All of my projects are available at [My-Repositories](https://github.com/Os14you?tab=repositories)
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://t.me/os14you) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
-- 📫 How to reach me **os14you.manage@gmail.com**
+- 📫 How to reach me **osama.yousef@tuta.io**
 - 👀 When I'm not at the keyboard, I like *video game*, *staying with my family* ,*chatting and hanging out with friends* .
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **Git the facts ,or the facts *wil Git you***
 
