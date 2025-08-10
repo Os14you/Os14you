@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=500&size=25&duration=3000&pause=1000&color=7246C0&center=true&random=true&width=800&lines=A+passionate+AI+Engineering+Enthusiast;Microsoft+Student+Ambassador)](https://git.io/typing-svg)
 
-<div align="center">
+<div align="center" style="font-size: 20px;">
   <p>As a third-year AI student and dedicated Linux enthusiast, I am passionate about crafting intelligent software solutions and contributing to the open-source community.</p>
 </div>
 
@@ -32,8 +32,8 @@
 <br/>
 
 <p align="center">
-    <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=Os14you&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="right" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Os14you&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=donut&hide_border=true" />
+    <img align="left" height="205px" src="https://github-readme-stats.vercel.app/api?username=Os14you&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="right" height="205px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Os14you&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=donut&hide_border=true" />
 </p>
 
 
@@ -49,10 +49,10 @@
 
 <div align="center">
   <a href="https://github.com/Os14you/redis-cpp">
-    <img align="left" height="136px" src="https://github-readme-stats.vercel.app/api/pin/?username=Os14you&repo=redis-cpp&theme=dark&hide_border=true" />
+    <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Os14you&repo=redis-cpp&theme=dark&hide_border=true" />
   </a>
   <a href="https://github.com/Os14you/Tic-Tac-Toe-with-agent-Cpp">
-    <img align="right" height="136px" src="https://github-readme-stats.vercel.app/api/pin/?username=Os14you&repo=Tic-Tac-Toe-with-agent-Cpp&theme=dark&hide_border=true" />
+    <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Os14you&repo=Tic-Tac-Toe-with-agent-Cpp&theme=dark&hide_border=true" />
   </a>
 </div>
 
