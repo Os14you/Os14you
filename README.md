@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=500&size=25&duration=3000&pause=1000&color=7246C0&center=true&random=true&width=800&lines=A+passionate+AI+Engineering+Enthusiast;Microsoft+Student+Ambassador)](https://git.io/typing-svg)
 
 <div align="center" style="font-size: 24px;">
-  <p>As a third-year AI student and dedicated Linux enthusiast, I am passionate about crafting intelligent software solutions and contributing to the open-source community.</p>
+  <p>As a final-year AI student and dedicated Linux enthusiast, I am passionate about crafting intelligent software solutions and contributing to the open-source community.</p>
 </div>
 
 <br/>
