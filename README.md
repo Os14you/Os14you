@@ -37,7 +37,7 @@
 </p>
 
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Os14you&theme=react-dark&hide_border=true&area=true)
+<!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Os14you&theme=react-dark&hide_border=true&area=true) -->
 
 <h2 align="center">🐍 Contribution Grid Snake </h2>
 
