@@ -45,6 +45,17 @@ Final-year AI student and Linux enthusiast passionate about crafting intelligent
 
 <!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Os14you&theme=react-dark&hide_border=true&area=true) -->
 
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Os14you/redis-cpp">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Os14you&repo=redis-cpp&theme=tokyonight&hide_border=true&border_radius=10" alt="Redis C++ Implementation" />
+  </a>
+  <a href="https://github.com/Os14you/Tic-Tac-Toe-with-agent-Cpp">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Os14you&repo=Tic-Tac-Toe-with-agent-Cpp&theme=tokyonight&hide_border=true&border_radius=10" alt="Tic-Tac-Toe AI Agent" />
+  </a>
+</p>
+
 ## 🛠️ Technologies & Tools
 | Category          | Skills                                                                                                                                                             |
 |-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -54,21 +65,28 @@ Final-year AI student and Linux enthusiast passionate about crafting intelligent
 | **CS Fundamentals** | `Algorithms`, `Data Structures`, `OOP`, `Problem Solving`, `Networking`, `Event Loop`                                                                              |
 
 
-<h2 align="center">🐍 Contribution Grid Snake </h2>
+## 📈 Contribution Graph
 
-![snake gif](https://github.com/Os14you/Os14you/blob/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Os14you/Os14you/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Os14you/Os14you/blob/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://github.com/Os14you/Os14you/blob/output/github-contribution-grid-snake.svg">
+</picture>
 
-<br/>
+## 🤝 Connect With Me
 
-<h2 align="center">✨ Highlighted Projects</h2>
-
-<div align="center">
-  <a href="https://github.com/Os14you/redis-cpp">
-    <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api/pin/?username=Os14you&repo=redis-cpp&theme=dark&hide_border=true" />
+<p align="center">
+  <a href="https://linkedin.com/in/os14you">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Os14you/Tic-Tac-Toe-with-agent-Cpp">
-    <img align="right" height="160px" src="https://github-readme-stats.vercel.app/api/pin/?username=Os14you&repo=Tic-Tac-Toe-with-agent-Cpp&theme=dark&hide_border=true" />
+  <a href="mailto:osama.yousef@tuta.io">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
+  <a href="https://twitter.com/os14you">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
 
-![footer](WEBP/footer.webp)
+<p align="center">
+  <i>💡 Open to collaborating on AI projects and open-source initiatives</i>
+</p>
