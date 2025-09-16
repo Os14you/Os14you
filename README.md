@@ -3,11 +3,20 @@
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=500&size=25&duration=3000&pause=1000&color=7246C0&center=true&random=true&width=800&lines=A+passionate+AI+Engineering+Enthusiast;Microsoft+Student+Ambassador)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=AI+Engineering+Enthusiast;Microsoft+Student+Ambassador;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Os14you&label=Profile%20views&color=6366F1&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Os14you?label=Followers&style=flat-square&color=6366F1" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Os14you?label=Total%20Stars&style=flat-square&color=6366F1" alt="Total Stars" />
+</p>
 
-<div align="center" style="font-size: 24px;">
-  <p>As a final-year AI student and dedicated Linux enthusiast, I am passionate about crafting intelligent software solutions and contributing to the open-source community.</p>
-</div>
+## 🎓 About Me
+
+Final-year AI student and Linux enthusiast passionate about crafting intelligent software solutions and contributing to the open-source community. I focus on building practical AI applications and exploring cutting-edge technologies.
 
 <br/>
 
@@ -26,21 +35,23 @@
 
 
 
-<br/>
-<h2 align="center">📈 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 </h2>
- 
-<br/>
+## 📊 GitHub Stats
 
 <p align="center">
-    <img align="left" height="210px" src="https://github-readme-stats.vercel.app/api?username=Os14you&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="right" height="205px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Os14you&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=donut&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Os14you&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Os14you&theme=tokyonight&hide_border=true&border_radius=10&layout=compact&langs_count=8" alt="Top Languages" />
 </p>
 
 
 <!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Os14you&theme=react-dark&hide_border=true&area=true) -->
 
-<br/>
-<br/>
+## 🛠️ Technologies & Tools
+| Category          | Skills                                                                                                                                                             |
+|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,cpp,mysql,bash" />                                                                                                   |
+| **Data Science** | <img src="https://skillicons.dev/icons?i=sklearn"/> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/os14you/os14you/main/assets/Pandas.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/os14you/os14you/main/assets/NumPy.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/os14you/os14you/main/assets/Matplotlib.svg" alt="matplotlib" width="40" height="40"/> </a> |
+| **Dev Tools** | <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,redis" />                                                                                                      |
+| **CS Fundamentals** | `Algorithms`, `Data Structures`, `OOP`, `Problem Solving`, `Networking`, `Event Loop`                                                                              |
 
 
 <h2 align="center">🐍 Contribution Grid Snake </h2>
