@@ -35,17 +35,17 @@ Final-year AI student and Linux enthusiast passionate about crafting intelligent
 
 
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Os14you&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Os14you&theme=tokyonight&hide_border=true&border_radius=10&layout=compact&langs_count=8" alt="Top Languages" />
-</p>
+</p> -->
 
 
-<!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Os14you&theme=react-dark&hide_border=true&area=true) -->
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Os14you&theme=react-dark&hide_border=true&area=true)
 
-## 🚀 Featured Projects
+<!-- ## 🚀 Featured Projects
 
 <p align="center">
   <a href="https://github.com/Os14you/redis-cpp">
@@ -54,7 +54,7 @@ Final-year AI student and Linux enthusiast passionate about crafting intelligent
   <a href="https://github.com/Os14you/Tic-Tac-Toe-with-agent-Cpp">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Os14you&repo=Tic-Tac-Toe-with-agent-Cpp&theme=tokyonight&hide_border=true&border_radius=10" alt="Tic-Tac-Toe AI Agent" />
   </a>
-</p>
+</p> -->
 
 ## 🛠️ Technologies & Tools
 | Category          | Skills                                                                                                                                                             |
